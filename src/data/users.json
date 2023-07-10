@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "name": "Administrator",
+    "bio": "The absolute ruler of this app."
+  },
+  {
+    "id": 2,
+    "username": "editor",
+    "name": "Editor in Chief",
+    "bio": "The editor who has a bit of control."
+  },
+  {
+    "id": 3,
+    "username": "writer",
+    "name": "Writer in Staff",
+    "bio": "The writer who can tell a story."
+  }
+]
